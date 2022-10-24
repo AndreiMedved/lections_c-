@@ -1,0 +1,15 @@
+C:\Users\Medvedevaa\Desktop\GeekBrains\C_sharp\Lections\lection_02\example_03\bin\Debug\net6.0\example_03.exe
+C:\Users\Medvedevaa\Desktop\GeekBrains\C_sharp\Lections\lection_02\example_03\bin\Debug\net6.0\example_03.deps.json
+C:\Users\Medvedevaa\Desktop\GeekBrains\C_sharp\Lections\lection_02\example_03\bin\Debug\net6.0\example_03.runtimeconfig.json
+C:\Users\Medvedevaa\Desktop\GeekBrains\C_sharp\Lections\lection_02\example_03\bin\Debug\net6.0\example_03.dll
+C:\Users\Medvedevaa\Desktop\GeekBrains\C_sharp\Lections\lection_02\example_03\bin\Debug\net6.0\example_03.pdb
+C:\Users\Medvedevaa\Desktop\GeekBrains\C_sharp\Lections\lection_02\example_03\obj\Debug\net6.0\example_03.csproj.AssemblyReference.cache
+C:\Users\Medvedevaa\Desktop\GeekBrains\C_sharp\Lections\lection_02\example_03\obj\Debug\net6.0\example_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Medvedevaa\Desktop\GeekBrains\C_sharp\Lections\lection_02\example_03\obj\Debug\net6.0\example_03.AssemblyInfoInputs.cache
+C:\Users\Medvedevaa\Desktop\GeekBrains\C_sharp\Lections\lection_02\example_03\obj\Debug\net6.0\example_03.AssemblyInfo.cs
+C:\Users\Medvedevaa\Desktop\GeekBrains\C_sharp\Lections\lection_02\example_03\obj\Debug\net6.0\example_03.csproj.CoreCompileInputs.cache
+C:\Users\Medvedevaa\Desktop\GeekBrains\C_sharp\Lections\lection_02\example_03\obj\Debug\net6.0\example_03.dll
+C:\Users\Medvedevaa\Desktop\GeekBrains\C_sharp\Lections\lection_02\example_03\obj\Debug\net6.0\refint\example_03.dll
+C:\Users\Medvedevaa\Desktop\GeekBrains\C_sharp\Lections\lection_02\example_03\obj\Debug\net6.0\example_03.pdb
+C:\Users\Medvedevaa\Desktop\GeekBrains\C_sharp\Lections\lection_02\example_03\obj\Debug\net6.0\example_03.genruntimeconfig.cache
+C:\Users\Medvedevaa\Desktop\GeekBrains\C_sharp\Lections\lection_02\example_03\obj\Debug\net6.0\ref\example_03.dll
