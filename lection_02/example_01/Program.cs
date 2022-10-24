@@ -22,7 +22,4 @@ int j = -2;
 // int max2 = Max(d, e, f);
 // int max3 = Max(g, h, j);
 int max = Max(Max(a, b, c), Max(d, e, f), Max(g, h, j));
-
-
-
 Console.WriteLine(max);
